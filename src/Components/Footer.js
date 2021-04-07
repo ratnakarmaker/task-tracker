@@ -55,7 +55,7 @@ function Footer() {
                         <h2>Social Media</h2>
                         <Link to='/'>Instagram</Link>
                         <Link to='/'>Facebook</Link>
-                        <Link to='/'>Youtube</Link>
+                        <Link to='/'>YouTube</Link>
                         <Link to='/'>Twitter</Link>
                     </div>
                 </div>
@@ -64,11 +64,11 @@ function Footer() {
                 <div class='social-media-wrap'>
                     <div class='footer-logo'>
                         <Link to='/' className='social-logo'>
-                            TRVL
+                        Tra <span className="text_highlight">Vio</span>
               <i class='fab fa-typo3' />
                         </Link>
                     </div>
-                    <small class='website-rights'>TRVL © 2020</small>
+                    <small class='website-rights'><span className="text_highlight">TraVio</span> © 2020</small>
                     <div class='social-icons'>
                         <Link
                             class='social-icon-link facebook'

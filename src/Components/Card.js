@@ -3,8 +3,8 @@ import CardItem from './CardItem';
 import './Card.css';
 import img_1 from '../images/img-9.jpg';
 import img_2 from '../images/img-2.jpg';
-import img_3 from '../images/img-3.jpg';
-import img_4 from '../images/img-4.jpg';
+import img_3 from '../images/place-2.jpg';
+import img_4 from '../images/place-4.jpg';
 import img_8 from '../images/img-8.jpg';
 
 function Card(props) {
