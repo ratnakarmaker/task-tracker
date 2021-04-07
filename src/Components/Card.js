@@ -10,7 +10,7 @@ import img_8 from '../images/img-8.jpg';
 function Card(props) {
     return (
         <div className="cards">
-            <h1>Check out these EPIC Destinations!</h1>
+            <h1>Our Most Popular Adventures!</h1>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className='cards__items'>

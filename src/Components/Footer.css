@@ -2,6 +2,13 @@
   color: #FF7C5B;
 }
 
+.social-icons i {
+  color: #FF7C5B;
+}
+.social-icons i:hover {
+  color: #fff;
+}
+
 .footer-container {
     background-color: #242424;
     padding: 4rem 0 2rem 0;
